@@ -1,4 +1,11 @@
- **As a** [role]  
+---
+name: User Story
+about: This template is for creating user stories
+title: ''
+labels: ''
+assignees: ''
+---
+**As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
@@ -12,5 +19,3 @@
  When [certain action is taken]
  Then [the outcome of action is observed]
  ```
-
-
